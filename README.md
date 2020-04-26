@@ -54,7 +54,7 @@ Geoffrey Hinton, 2006, Reducing the Dimensionality of Data with Neural Networks
 #### Lecturas Adicionales
 
 * [Irhum Shafkat, 2018, Intuitively Understanding Variational Autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
-Diederik P. Kingma and Max Welling, 2014, Auto-Encoding Variational Bayes
+* [Diederik P. Kingma and Max Welling, 2014, Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
 Francois Chollet, 2016, Building Autoencoders in Keras
 Chris McCormick, 2014, Deep Learning Tutorial - Sparse Autoencoder
 Eric Wilkinson, 2014, Deep Learning: Sparse Autoencoders
