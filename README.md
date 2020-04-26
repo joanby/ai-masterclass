@@ -52,7 +52,8 @@ Geoffrey Hinton, 2006, Reducing the Dimensionality of Data with Neural Networks
 ### Section 5. Variational AutoEncoder (VAE)
 
 #### Lecturas Adicionales
-Irhum Shafkat, 2018, Intuitively Understanding Variational Autoencoders
+
+* [Irhum Shafkat, 2018, Intuitively Understanding Variational Autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 Diederik P. Kingma and Max Welling, 2014, Auto-Encoding Variational Bayes
 Francois Chollet, 2016, Building Autoencoders in Keras
 Chris McCormick, 2014, Deep Learning Tutorial - Sparse Autoencoder
