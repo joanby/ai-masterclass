@@ -8,13 +8,13 @@ Bienvenido al repositorio de datos para el curso **Masterclass en Inteligencia A
 
 ### Section 1. Introduction
 
-The Course Structure
-The Full World Model
+* [Estructura del curso](https://github.com/joanby/ai-masterclass/blob/master/Recursos%20Adicionales/Estructura%20del%20Curso.png)
+* [Modelo del Mundo Completo](https://github.com/joanby/ai-masterclass/blob/master/Recursos%20Adicionales/World%20Model.pdf)
 
 #### Lecturas Adicionales
 
-* [The Full World Model Article](https://worldmodels.github.io)
-* [The Best Resource on Evolution Strategies](https://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+* [Artículo del Modelo del Mundo Completo](https://worldmodels.github.io)
+* [El mejor recurso sobre Estrategias Evolutivas](https://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 
 ### Sección 2. Redes Neuronales Artificiales (ANN)
 
