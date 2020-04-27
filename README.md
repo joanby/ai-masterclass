@@ -12,8 +12,9 @@ The Course Structure
 The Full World Model
 
 #### Lecturas Adicionales
-The Full World Model Article
-The Best Resource on Evolution Strategies
+
+* [The Full World Model Article](https://worldmodels.github.io)
+* [The Best Resource on Evolution Strategies](https://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
 
 ### Sección 2. Redes Neuronales Artificiales (ANN)
 
