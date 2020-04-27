@@ -8,8 +8,8 @@ Bienvenido al repositorio de datos para el curso **Masterclass en Inteligencia A
 
 ### Section 1. Introduction
 
-* [Estructura del curso](Recursos Adicionales/Estructura del Curso.png)
-* [Modelo del Mundo Completo](Recursos Adicionales/World Model.pdf)
+* [Estructura del curso](https://github.com/joanby/ai-masterclass/blob/master/Recursos%20Adicionales/Estructura%20del%20Curso.png)
+* [Modelo del Mundo Completo](https://github.com/joanby/ai-masterclass/blob/master/Recursos%20Adicionales/World%20Model.pdf)
 
 #### Lecturas Adicionales
 
