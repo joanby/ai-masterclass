@@ -6,7 +6,7 @@ Repositorio de la Masterclass en Inteligencia Artificial
 
 Bienvenido al repositorio de datos para el curso **Masterclass en Inteligencia Artificial** de Kirill Eremenko, Hadelin de Ponteves y Juan Gabriel Gomila. Aquí encontrarás los datasets y materiales complementarios del curso. Disfrútalos!
 
-### Section 1. Introduction
+### Sección 1. Introduction
 
 * [Estructura del curso](https://github.com/joanby/ai-masterclass/blob/master/Recursos%20Adicionales/Estructura%20del%20Curso.pdf)
 * [Modelo del Mundo Completo](https://github.com/joanby/ai-masterclass/blob/master/Recursos%20Adicionales/World%20Model.pdf)
@@ -39,7 +39,7 @@ Bienvenido al repositorio de datos para el curso **Masterclass en Inteligencia A
 * Rob DiPietro, 2016, [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * Peter Roelants, 2016, [How to implement a neural network Intermezzo 2](http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/)
 
-### Section 4. AutoEncoder (AE)
+### Sección 4. AutoEncoders (AE)
 
 #### Lecturas Adicionales
 Malte Skarupke, 2016, Neural Networks Are Impressively Good At Compression
@@ -52,7 +52,7 @@ Salah Rifai, 2011, Contractive Auto-Encoders: Explicit Invariance During Feature
 Pascal Vincent, 2010, Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion
 Geoffrey Hinton, 2006, Reducing the Dimensionality of Data with Neural Networks
 
-### Section 5. Variational AutoEncoder (VAE)
+### Sección 5. AutoEncoders Variacionales (VAE)
 
 #### Lecturas Adicionales
 
@@ -67,11 +67,12 @@ Salah Rifai et al., 2011, Contractive Auto-Encoders: Explicit Invariance During 
 Pascal Vincent et al., 2010, Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion
 Geoffrey Hinton et al., 2006, Reducing the Dimensionality of Data with Neural Networks
 
-### Section 6. Implementing the CNN-VAE
+### Sección 6. Implementación de CNN-VAE
 
-### Section 7. Recurrent Neural Networks (RNN)
+### Sección 7. Redes Neuronales Recurrentes (RNN)
 
 #### Lecturas Adicionales
+
 Oscar Sharp & Benjamin, 2016, Sunspring
 Sepp (Josef) Hochreiter, 1991, Untersuchungen zu dynamischen neuronalen Netzen
 Yoshua Bengio, 1994, Learning Long-Term Dependencies with Gradient Descent is Difficult
@@ -84,11 +85,11 @@ Andrej Karpathy, 2015, Visualizing and Understanding Recurrent Networks
 Klaus Greff, 2015, LSTM: A Search Space Odyssey
 Xavier Glorot, 2011, Deep sparse rectifier neural networks
 
-### Section 7. Mixture Density Network (MDN)
+### Sección 7. Red Neuronal de Densidad Mixta (MDN)
 
-### Section 8. Implementing the MDN-RNN
+### Sección 8. Implementación de MDN-RNN
 
-### Section 9. Reinforcement Learning
+### Sección 9. Reinforcement Learning
 
 #### Lecturas Adicionales
 Arthur Juliani, 2016, Simple Reinforcement Learning with Tensorflow (10 Parts)
@@ -98,4 +99,4 @@ D. J. White, 1993, A Survey of Applications of Markov Decision Processes
 Martijn van Otterlo, 2009, Markov Decision Processes: Concepts and Algorithms
 Richard Sutton, 1988, Learning to Predict by the Methods of Temporal Differences
 
-### Section 10. Deep Neuro Evolution (GA, ES)
+### Sección 10. Deep Neuro Evolution (GA, ES)
